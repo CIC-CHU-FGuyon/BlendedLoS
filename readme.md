@@ -1,5 +1,5 @@
 # Welcome the the BlendedLoS code repository
-This is the repository from Multi-Source Data Pooling and Transfer Learning Improve Generalizability and Specialization of Deep Learning Models for ICU Mortality and Length of Stay Prediction: A Four-Database External Validation Study.
+This is the repository from *Multi-Source Data Pooling and Transfer Learning Improve Generalizability and Specialization of Deep Learning Models for ICU Mortality and Length of Stay Prediction: A Four-Database External Validation Study*.
 
 ## Usage:
 
