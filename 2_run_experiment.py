@@ -43,12 +43,9 @@ config_fname = 'config.json'
 experiments = [
     'model_benchmark',
     'dataset_benchmark',
-<<<<<<< HEAD
     'main_experiment'
-=======
     'dataset_benchmark_nomed_75',
     'main_experiment',
->>>>>>> 0462e6d3cfbc48c44707f92e96b8958f582fda05
     'training_size_study',
     ]
 
