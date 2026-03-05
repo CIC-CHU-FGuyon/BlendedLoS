@@ -19,8 +19,7 @@ Running the BlendedICU harmonization pipeline requires acess to [AmsterdamUMCdb]
 [HiRID](https://physionet.org/content/hirid/1.1.1/) and
 [MIMIC-IV](https://physionet.org/content/mimiciv/2.2/).
 
-For more information on the BlendedICU database, check the [ article](https://www.sciencedirect.com/science/article/pii/S153204642300223X) 
-and [GitHub repo](https://github.com/USM-CHU-FGuyon/BlendedICU).
+For more information on the BlendedICU database, check the [article](https://www.sciencedirect.com/science/article/pii/S153204642300223X).
 
 
 ### Running BlendedICU
